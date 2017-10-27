@@ -4,10 +4,10 @@ end
 
 
 def shipping_manifest
-  shopping_manifest = {}
-  shopping_manifest["whale bone corsets"] = 5
-  shopping_manifest["porcelain vases"] = 2
-  shopping_manifest["oil paintings"] = 3
+  shipping_manifest = {}
+  shipping_manifest["whale bone corsets"] = 5
+  shipping_manifest["porcelain vases"] = 2
+  shipping_manifest["oil paintings"] = 3
 end
 
 def retrieval
